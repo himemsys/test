@@ -1,11 +1,11 @@
-import hi.me.hello
+import hi.me.hello34
 
 
 
-print ("goodbye")
-print ("hello")
-print ("Good nice")
+print ("goodbye")5
+print ("hello")6
+print ("Good nice")8
 print ("Good morning")
-print ("Easter day")
+print ("Easter day");
 
 goodbye = input("Введите значение значение от одного до девяти: ")
