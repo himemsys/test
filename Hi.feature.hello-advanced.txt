@@ -1,10 +1,10 @@
-import hi.me.hello;
+import hi.me.hello
 
 
 
-print ("goodbye;")
-print ("hello;")
-print ("Good nice;")
+print ("goodbye")
+print ("hello")
+print ("Good nice")
 print ("Good morning")
 print ("Easter day")
 
