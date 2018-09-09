@@ -1,11 +1,11 @@
 import hi.me.hello;
 
 
-
+1234
 print ("goodbye;")
 print ("hello;")
-print ("Good nice;")
-print ("Good morning")
-print ("Easter day")
+print ("Good nice;#")
 
-goodbye = input("Введите значение значение от одного до девяти: ")
+print ("Easter day") 7866
+
+goodbye = input("Введите значение значение от одного до девяти:")
