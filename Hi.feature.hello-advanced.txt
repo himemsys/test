@@ -1,0 +1,9 @@
+import hi.me.hello
+
+
+
+print ("goodbye")
+print ("hello")
+print ("Good nice")
+
+goodbye = input("Введите значение значение от одного до девяти:")
